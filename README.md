@@ -1,6 +1,8 @@
 # Traffic-Sign-Detection
 🚦 Traffic Sign Recognition
+
 📌 Project Overview
+
 This project implements a computer vision pipeline using OpenCV to detect and segment traffic signs based on their color and shape.
 The system applies color masking in the HSV space, shape analysis with contour approximation, and visualization through multi-window outputs. It is designed as part of an academic assignment to demonstrate traffic sign detection techniques.
 
