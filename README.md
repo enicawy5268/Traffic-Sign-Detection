@@ -22,6 +22,8 @@ Visualization:
 Result Saving: Cropped traffic signs are automatically saved to the output directory.
 
 Display Output:
+
 <img width="885" height="610" alt="image" src="https://github.com/user-attachments/assets/0c22a45f-365d-43d4-b43f-acdd5bce607a" />
+
 <img width="587" height="322" alt="image" src="https://github.com/user-attachments/assets/75c80434-2f1f-4888-80d3-ecd49f262e3e" />
 
